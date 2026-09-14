@@ -217,5 +217,5 @@ reconnaissance (PowerView/LDAP)` · `Alert triage & false-positive reduction`
 
 ---
 
-*Based on a TryHackMe SOC simulation lab. Documented for learning and portfolio
-purposes — analysis and reasoning only, no flags or solution keys.*
+*This lab is based on a TryHackMe SOC simulation lab. Documented for learning and portfolio
+purposes.*
