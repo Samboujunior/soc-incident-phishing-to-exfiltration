@@ -7,9 +7,6 @@ named corporate file server. This write-up documents the full investigation:
 what was triaged as noise, what was escalated, and how each piece of evidence
 connected to the next.
 
-> **Note:** Based on a TryHackMe SOC simulation lab. This documents analysis,
-> triage decisions, and investigative reasoning — not flags or answer keys.
-
 ---
 
 ## Executive Summary
